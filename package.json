@@ -1,12 +1,12 @@
 {
-  "name": "trajectory",
-  "version": "1.0.0",
-  "description": "",
-  "scripts": {
-    "start": "parcel src/index.html",
-    "build": "parcel build src/index.html",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC"
+    "name": "falling-balls",
+    "version": "1.0.0",
+    "description": "",
+    "scripts": {
+        "start": "parcel src/index.html",
+        "build": "parcel build src/index.html",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC"
 }
